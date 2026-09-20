@@ -2,7 +2,7 @@ public class Test {
 
 
     public void test() {
-        IO.println("Test");
+        IO.println("Testar en merge conflict");
     }
 
 }
