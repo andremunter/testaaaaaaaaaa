@@ -2,7 +2,7 @@ public class Test {
 
 
     public void test() {
-        IO.println("Testa INTE!!!!!!");
+        IO.println("Det här väljer jag");
     }
 
 }
